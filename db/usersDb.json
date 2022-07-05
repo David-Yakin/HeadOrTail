@@ -1,0 +1,9 @@
+{
+  "firstName": "david",
+  "lastName": "yakin",
+  "email": "david@gmail.com",
+  "age": 42,
+  "sumOfMoney": 100,
+  "isLogin": true,
+  "password": "123456"
+}
